@@ -122,7 +122,7 @@ image
 
 
 
-$\Large\color{#decda0}{\textsf{""-Oh Crowley.... Nothing lasts forever...""}}$
+$\Large\color{#decda0}{\textsf{"text"}}$
 
 
 
